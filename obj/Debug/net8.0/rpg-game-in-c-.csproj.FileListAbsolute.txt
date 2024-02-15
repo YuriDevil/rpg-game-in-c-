@@ -1,0 +1,15 @@
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\bin\Debug\net8.0\rpg-game-in-c-.exe
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\bin\Debug\net8.0\rpg-game-in-c-.deps.json
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\bin\Debug\net8.0\rpg-game-in-c-.runtimeconfig.json
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\bin\Debug\net8.0\rpg-game-in-c-.dll
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\bin\Debug\net8.0\rpg-game-in-c-.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.sourcelink.json
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.dll
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\refint\rpg-game-in-c-.dll
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\rpg-game-in-c-.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Área de Trabalho\2\rpg-game-in-c-\obj\Debug\net8.0\ref\rpg-game-in-c-.dll
